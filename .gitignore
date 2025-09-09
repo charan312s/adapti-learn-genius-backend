@@ -1,0 +1,10 @@
+# Java / Maven
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+
+# secrets
+.env
